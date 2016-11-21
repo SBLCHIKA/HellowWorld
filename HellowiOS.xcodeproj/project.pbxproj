@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					20040C0F1DE2B9A500A150AB = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 97DU497KKF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DU497KKF;
 				INFOPLIST_FILE = HellowiOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.sb.test.shinji.uetsuki.HellowiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97DU497KKF;
 				INFOPLIST_FILE = HellowiOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.sb.test.shinji.uetsuki.HellowiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
